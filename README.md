@@ -1,2 +1,2 @@
-# mobile_factory_gsh
-gsh upload
+2026-02-15 
+모바일 팩토리 2차 기술과제
